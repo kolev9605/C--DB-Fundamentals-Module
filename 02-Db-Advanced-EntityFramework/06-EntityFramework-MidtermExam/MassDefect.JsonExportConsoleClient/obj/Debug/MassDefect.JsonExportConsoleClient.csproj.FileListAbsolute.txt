@@ -1,0 +1,16 @@
+C:\Users\Kolev\Desktop\EntityFramework-Exam\MassDefect.JsonExportConsoleClient\bin\Debug\MassDefect.JsonExportConsoleClient.exe.config
+C:\Users\Kolev\Desktop\EntityFramework-Exam\MassDefect.JsonExportConsoleClient\bin\Debug\MassDefect.JsonExportConsoleClient.exe
+C:\Users\Kolev\Desktop\EntityFramework-Exam\MassDefect.JsonExportConsoleClient\bin\Debug\MassDefect.JsonExportConsoleClient.pdb
+C:\Users\Kolev\Desktop\EntityFramework-Exam\MassDefect.JsonExportConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\Kolev\Desktop\EntityFramework-Exam\MassDefect.JsonExportConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kolev\Desktop\EntityFramework-Exam\MassDefect.JsonExportConsoleClient\bin\Debug\MassDefect.Data.dll
+C:\Users\Kolev\Desktop\EntityFramework-Exam\MassDefect.JsonExportConsoleClient\bin\Debug\MassDefect.Models.dll
+C:\Users\Kolev\Desktop\EntityFramework-Exam\MassDefect.JsonExportConsoleClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kolev\Desktop\EntityFramework-Exam\MassDefect.JsonExportConsoleClient\bin\Debug\MassDefect.Data.pdb
+C:\Users\Kolev\Desktop\EntityFramework-Exam\MassDefect.JsonExportConsoleClient\bin\Debug\MassDefect.Models.pdb
+C:\Users\Kolev\Desktop\EntityFramework-Exam\MassDefect.JsonExportConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\Kolev\Desktop\EntityFramework-Exam\MassDefect.JsonExportConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kolev\Desktop\EntityFramework-Exam\MassDefect.JsonExportConsoleClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kolev\Desktop\EntityFramework-Exam\MassDefect.JsonExportConsoleClient\obj\Debug\MassDefect.JsonExportConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\Kolev\Desktop\EntityFramework-Exam\MassDefect.JsonExportConsoleClient\obj\Debug\MassDefect.JsonExportConsoleClient.exe
+C:\Users\Kolev\Desktop\EntityFramework-Exam\MassDefect.JsonExportConsoleClient\obj\Debug\MassDefect.JsonExportConsoleClient.pdb

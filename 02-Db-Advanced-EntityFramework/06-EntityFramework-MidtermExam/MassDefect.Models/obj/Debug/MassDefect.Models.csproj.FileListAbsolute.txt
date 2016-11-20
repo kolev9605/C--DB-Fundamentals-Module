@@ -1,0 +1,5 @@
+C:\Users\Kolev\Desktop\EntityFramework-Exam\MassDefect.Models\bin\Debug\MassDefect.Models.dll
+C:\Users\Kolev\Desktop\EntityFramework-Exam\MassDefect.Models\bin\Debug\MassDefect.Models.pdb
+C:\Users\Kolev\Desktop\EntityFramework-Exam\MassDefect.Models\obj\Debug\MassDefect.Models.csprojResolveAssemblyReference.cache
+C:\Users\Kolev\Desktop\EntityFramework-Exam\MassDefect.Models\obj\Debug\MassDefect.Models.dll
+C:\Users\Kolev\Desktop\EntityFramework-Exam\MassDefect.Models\obj\Debug\MassDefect.Models.pdb
